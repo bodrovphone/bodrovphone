@@ -5,7 +5,7 @@
 
   Software Engineer with 11+ years delivering performance-critical applications for companies like Alma Media, Groupon, Inditex, and Bazaarvoice. Expert in React/Next.js optimization, achieving 25% faster load times and 10-24% Core Web Vitals improvements across enterprise platforms.
 
-  Founder of [ObodSoft](https://trudify.com) — building AI-powered products. Also running [CodeBurg](https://codeburg.bg), a coworking space fostering the local tech community.
+  Founder of [Trudify](https://trudify.com) — building AI-powered products. Also running [CodeBurg](https://codeburg.bg), a coworking space fostering the local tech community.
 
   ---
 
