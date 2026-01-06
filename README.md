@@ -1,2 +1,2 @@
 # -bodrovphone
-profile repo
+Senior Full Stack Engineer with 11+ years delivering high-impact solutions for Alma Media (Finland's largest real estate platform), Groupon, Inditex, and Bazaarvoice. Specialized in React/Next.js performance optimization, achieving 25% faster load times and 90%+ test coverage across enterprise applications. Built Trudify, an AI-powered B2C marketplace, while leading teams and mentoring developers in modern full-stack development.
